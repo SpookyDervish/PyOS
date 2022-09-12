@@ -2,12 +2,12 @@
 A basic command line operating system written in python
 
 # Running PyOS
-You need [Python](https://www.python.org/downloads/) installed on your computer for PyOS to work. You also need [pip](https://pip.pypa.io/en/stable/installation/) to install the dependencies.
+You need [Python](https://www.python.org/downloads/) installed on your computer for PyOS to work. You also need [pip](https://pip.pypa.io/en/stable/installation/) to install the modules.
 
 ## Step 1
 Open command prompt.
 
-Then install the dependencies. Simple as using `pip install`.
+Then install the modules. Simple as using `pip install`.
 ```
 pip install pyfiglet rich
 ```
